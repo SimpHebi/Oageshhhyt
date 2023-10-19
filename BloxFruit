@@ -2394,7 +2394,7 @@ TienTiny:Label("Owner Team: Tien Tiny")
 TienTiny:Label("Member: Phuc Tiny (Oc' Cho')")
 TienTiny:Label("Member: Lemeo Tiny")
 TienTiny:Label("Member: Phu Tiny (Gay)")
-TienTiny:Label("Member: Phuong Tiny (TreTrau)")
+TienTiny:Label("Member: Trung Tiny")
 
 TienTiny:Seperator("Social Network")
 TienTiny:Button('Discord Sever', function()
