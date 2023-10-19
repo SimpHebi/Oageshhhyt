@@ -8908,11 +8908,11 @@ end
 end)
 
 Visual:Button("Keyboard Mobile",function()
-print("Fix")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SimpHebi/Oageshhhyt/main/MobileKeyboard"))()
 end)
 
 Visual:Button("Fly Gui",function()
-print("Fix")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SimpHebi/Oageshhhyt/main/Fly"))()
 end)
     
 Visual:Seperator("😼 Fake Race V4 😼")
